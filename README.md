@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: building strong skills in backend development<br><br>I’m looking to collaborate on: student projects and beginner-friendly coding projects.<br><br>I’m looking for help with: backend development, databases, and academic topics.<br><br>I’m currently learning: Python, C++ , and software project structure.<br><br>Ask me about: coding, learning in public, and student life.<br><br>Fun fact: I enjoy learning by building real projects.
+I’m currently practicing with real-life coding projects<br><br>I’m looking to collaborate on: student projects and beginner-friendly coding projects.<br><br>I’m looking for help with: backend development, databases, and academic topics.<br><br>I’m currently learning: Machine learning ,Python, C++ , and software project structure.<br><br>Ask me about: coding, learning in public, and student life.<br><br>Fun fact: I enjoy learning by building real projects.
 
 
 
