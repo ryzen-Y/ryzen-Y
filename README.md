@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 I’m currently practicing with real-life coding projects<br><br>I’m looking to collaborate on: student projects and beginner-friendly coding projects.<br><br>I’m looking for help with: backend development, databases, and academic topics.<br><br>I’m currently learning: Machine learning ,Python, C++ , and software project structure.<br><br>Ask me about: coding, learning in public, and student life.<br><br>Fun fact: I enjoy learning by building real projects.
 
 
@@ -26,9 +26,15 @@ I’m currently practicing with real-life coding projects<br><br>I’m looking t
 ![](https://streak-stats.demolab.com/?user=ryzen-Y&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ryzen-Y&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💻 My Programming Languages
+## 💻 Languages Used
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryzen-Y&theme=dracula)what will this show
+```text
+🐍 Python        ████████████████████ 40%
+💻 C++           ██████████████      30%
+☕ Java          ██   2%
+⚡ C             █   1%
+
+```
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
