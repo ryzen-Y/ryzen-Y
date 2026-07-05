@@ -25,16 +25,10 @@ I’m currently practicing with real-life coding projects<br><br>I’m looking t
 ![](https://github-readme-stats.shion.dev/api?username=ryzen-Y&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ryzen-Y&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ryzen-Y&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MdAshekMahmud&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 💻 Languages Used
 
-```text
-🐍 Python        ████████████████████ 40%
-💻 C++           ██████████████      30%
-☕ Java          ██   2%
-⚡ C             █   1%
 
-```
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
