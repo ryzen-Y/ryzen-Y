@@ -29,8 +29,6 @@ I’m currently practicing with real-life coding projects<br><br>I’m looking t
 
 
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
