@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E03C8A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E03C8A&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Mirza+Tauhid;CSE+Student+%7C+Developer+%7C+ML+Enthusiast;Welcome+to+my+profile!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E03C8A&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Mirza+Tauhid;CS+Student+%7C+Developer+%7C+ML+Enthusiast;Welcome+to+my+profile!+%3A%29)](https://git.io/typing-svg)
 
 <h3 align="center">
     Computer Science & Engineering Student
