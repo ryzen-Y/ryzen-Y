@@ -7,9 +7,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/ryzen-Y">
-        <img src="https://komarev.com/ghpvc/?username=ryzen-Y&label=Profile%20Views&color=E03C8A&style=flat" alt="Profile Views"/>
-    </a>
+    <img src="https://img.shields.io/badge/Profile%20Views-1K%2B-E03C8A?style=flat" alt="Profile Views"/>
 </p>
 
 ## 👨‍💻 About Me
