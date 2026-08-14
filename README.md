@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Mirza+Tauhid;CSE+Student+%7C+Developer+%7C+ML+Enthusiast;Welcome+to+my+profile!+%3A%29)](https://git.io/typing-svg)
 
@@ -29,13 +27,15 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 ### Data Science & Machine Learning
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
@@ -43,6 +43,7 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 </p>
 
 ### Database, Cloud & Tools
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,aws,git,github,vscode" />
 </p>
@@ -115,18 +116,19 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 
 </div>
 
+## 🚀 What I'm Working On
+
+- 📚 Improving my **Data Structures & Algorithms** skills
+- 🤖 Building and experimenting with **Machine Learning projects**
+- 🐍 Strengthening my **Python** skills
+- 💻 Practicing **C++ and competitive programming**
+- 🗄️ Learning more about **databases and backend development**
+- 🛠️ Building projects to gain practical software development experience
+
 <div align="center">
-<br>
-<p><b>Thanks for visiting my profile!</b></p>
-<img src="https://profile-counter.glitch.me/ryzen-Y/count.svg" />
-<br>
+
+### ✨ Keep Learning. Keep Building. Keep Growing. ✨
+
 </div>
 
-<h2 align="center">✨ Keep Learning. Keep Building. Keep Growing. ✨</h2>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-'''
-
-out = Path("/mnt/data/README_ryzen-Y.md")
-out.write_text(readme, encoding="utf-8")
-print(f"Created: {out}")
