@@ -85,19 +85,19 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 <div align="center">
 
 <a href="mailto:mirzaaliuntauhid@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-E03C8A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mirza-tauhid-b811353aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-E03C8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/mirza.tauhid.507/">
-  <img src="https://img.shields.io/badge/Facebook-E03C8A?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/iam__tauhid1">
-  <img src="https://img.shields.io/badge/Instagram-E03C8A?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -107,11 +107,11 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 <div align="center">
 
 <a href="https://leetcode.com/u/Mirzatauhiid/">
-  <img src="https://img.shields.io/badge/LeetCode-E03C8A?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://codeforces.com/profile/mirzaaliuntauhid">
-  <img src="https://img.shields.io/badge/Codeforces-E03C8A?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
