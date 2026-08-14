@@ -12,9 +12,7 @@ Ask me about: coding, learning in public, and student life.<br><br>
 
 Fun fact: I enjoy learning by building real projects.
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="500">
-</p>
+
 
 
 ## 🌐 Socials:
