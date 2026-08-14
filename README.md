@@ -104,7 +104,7 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Mirzatauhiid/">
+<a href="https://leetcode.com/u/Mirzatauhid/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
