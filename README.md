@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E03C8A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Mirza+Tauhid;CSE+Student+%7C+Developer+%7C+ML+Enthusiast;Welcome+to+my+profile!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E03C8A&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Mirza+Tauhid;CSE+Student+%7C+Developer+%7C+ML+Enthusiast;Welcome+to+my+profile!+%3A%29)](https://git.io/typing-svg)
 
 <h3 align="center">
     Computer Science & Engineering Student
@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/ryzen-Y">
-        <img src="https://komarev.com/ghpvc/?username=ryzen-Y&label=Profile%20Views&color=00bfbf&style=flat" alt="Profile Views"/>
+        <img src="https://komarev.com/ghpvc/?username=ryzen-Y&label=Profile%20Views&color=E03C8A&style=flat" alt="Profile Views"/>
     </a>
 </p>
 
@@ -85,19 +85,19 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 <div align="center">
 
 <a href="mailto:mirzaaliuntauhid@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-E03C8A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mirza-tauhid-b811353aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-E03C8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/mirza.tauhid.507/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-E03C8A?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/iam__tauhid1">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E03C8A?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -107,11 +107,11 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 <div align="center">
 
 <a href="https://leetcode.com/u/Mirzatauhiid/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-E03C8A?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/mirzaaliuntauhid">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codeforces-E03C8A?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
@@ -131,4 +131,4 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E03C8A&height=120&section=footer"/>
