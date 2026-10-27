@@ -119,7 +119,7 @@ Hi! I'm **Mirza Tauhid**, a Computer Science & Engineering student who enjoys le
 - 📚 Improving my **Data Structures & Algorithms** skills
 - 🤖 Building and experimenting with **Machine Learning projects**
 - 🐍 Strengthening my **Python** skills
-- 💻 Practicing **C++ and competitive programming**
+- 💻 Practicing **C++ , DSA  and competitive programming**
 - 🗄️ Learning more about **databases and backend development**
 - 🛠️ Building projects to gain practical software development experience
 
